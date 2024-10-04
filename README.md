@@ -10,9 +10,13 @@ There are 3 main steps inside notebook.
 2. Data processing
 3. EDA and Explanatory Analysis
 
-# Dashboard
+# How to Run
 
-To run dashboard in local machine you can use this command. Make sure you already installed streamlit before running it.
+Make sure you already installed all of the library with.
+```
+pip install -r requirements.txt
+```
+To run dashboard in local machine you can use this command. 
 ```
 streamlit run dashboard.py
 ```
